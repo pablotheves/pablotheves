@@ -24,14 +24,6 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 
 ---
 
-### 📊 Estatísticas no GitHub
-
-[![Estatísticas do GitHub de SeuNome](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula)](https://github.com/pablotheves)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=dracula)](https://github.com/pablotheves)
-
----
-
 ### 📫 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablotheves1/)
