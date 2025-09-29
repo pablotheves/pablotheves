@@ -13,6 +13,7 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 - **Linguagens:** Java, HTML, CSS, JAVASCRIPT
 - **Bancos de Dados:** MySQL
 - **DevOps & Ferramentas:** Git, Github
+- 
 ---
 
 ### 🌱 Atualmente Estou...
@@ -21,8 +22,11 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 - 🌱 Aprendendo mais sobre Desenvolvimento Web
 - 💬 Me pergunte sobre Desenvolvimento de Jogos.
 - 📫 Como me encontrar: pablotheves20@gmail.com.
+- 
 ---
+
 ### 📊 Estatísticas
+
 <p>
   <img 
     align="left" 
@@ -32,7 +36,9 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
     src="https://github-readme-stats.vercel.app/api?username=pablotheves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 </p>
+
 ---
+
 ### 📫 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablotheves1/)
