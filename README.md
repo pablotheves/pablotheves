@@ -36,6 +36,7 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
   />
 
 </p>
+---
 
 ### 📫 Conecte-se Comigo
 
