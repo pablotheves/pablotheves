@@ -13,7 +13,6 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 - **Linguagens:** Java, HTML, CSS, JAVASCRIPT
 - **Bancos de Dados:** MySQL
 - **DevOps & Ferramentas:** Git, Github
-- 
 ---
 
 ### 🌱 Atualmente Estou...
