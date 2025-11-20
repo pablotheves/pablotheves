@@ -25,10 +25,10 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 ---
 
 <div align="center">
-<a href="https://github.com/pitercoding/github-readme-stats">
+<a href="https://github.com/pablotheves/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=pitercoding&theme=radical" />
 </a>
-<a href="https://github.com/pitercoding/convoychat">
+<a href="https://github.com/pablotheves/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pitercoding&layout=compact&langs_count=12&card_width=320&theme=radical" />
 </a>
 </div>
