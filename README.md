@@ -29,7 +29,7 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=pitercoding&theme=radical" />
 </a>
 <a href="https://github.com/pablotheves/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pitercoding&layout=compact&langs_count=12&card_width=320&theme=radical" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablotheves&layout=compact&langs_count=12&card_width=320&theme=radical" />
 </a>
 </div>
 
