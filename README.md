@@ -21,15 +21,8 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 - 🌱 Aprendendo mais sobre Desenvolvimento Web e android SDK
 - 💬 Me pergunte sobre Desenvolvimento de Jogos.
 - 📫 Como me encontrar: pablotheves20@gmail.com.
-- 
 ---
 
-<div align="center">
-<a href="https://github.com/pablotheves/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=pablotheves&theme=radical" />
-</a>
-<a href="https://github.com/pablotheves/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablotheves&layout=compact&langs_count=12&card_width=320&theme=radical" />
 </a>
 </div>
 
