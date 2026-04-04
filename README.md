@@ -17,8 +17,8 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 
 ### 🌱 Atualmente Estou...
 
-- 🔭 Trabalhando em projetos pessoais e desenvolvendo sistema de gerenciamento para entidade.
-- 🌱 Aprendendo mais sobre Desenvolvimento Web
+- 🔭 Trabalhando em projetos pessoais e desenvolvendo um jogo para o tcc.
+- 🌱 Aprendendo mais sobre Desenvolvimento Web e android SDK
 - 💬 Me pergunte sobre Desenvolvimento de Jogos.
 - 📫 Como me encontrar: pablotheves20@gmail.com.
 - 
