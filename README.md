@@ -23,10 +23,6 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 - 📫 Como me encontrar: pablotheves20@gmail.com.
 ---
 
-</a>
-</div>
-
-
 ### 📫 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablotheves1/)
