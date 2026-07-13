@@ -2,7 +2,7 @@
 
 ### Desenvolvedor FullStack
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e gosto muito de desenvolver projetos pessoais. Tenho conhecimentos em Java, desenvolvimento web e banco de dados. Busco oportunidades para aplicar e expandir minhas habilidades na prática.
+Sou estudante de Análise e Desenvolvimento de Sistemas e gosto muito de desenvolver projetos pessoais. Tenho conhecimentos em Java, desenvolvimento web e banco de dados. Sempre aplicando e expandindo minhas habilidades na prática.
 
 ---
 
